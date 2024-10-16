@@ -1,0 +1,22 @@
+.one {
+    background-color: rgb(255, 200, 200);
+    font-family: "Verdana", "DejaVu Sans", sans-seriff;
+}
+
+#myDiv {
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#unique {
+    background-color: #98FB98;
+    font-weight: bold;
+}
+
+
+
+
